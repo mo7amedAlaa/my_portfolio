@@ -1,6 +1,6 @@
 'use client';
 
-import { animate, motion } from 'framer-motion';
+import { motion } from 'framer-motion';
 import React, { useState } from 'react';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
